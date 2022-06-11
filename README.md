@@ -1,4 +1,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=matteofacci.visitor-badge)
+[![Linkedin: matteofacci](https://img.shields.io/badge/-matteofacci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteofacci/)](https://www.linkedin.com/in/matteofacci/)
+[![GitHub Matteo](https://img.shields.io/github/followers/matteo?label=follow&style=social)](https://github.com/matteofacci)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/faccimatteo?country.x=IT&locale.x=it_IT)
 
 ![](coding.gif)
 
@@ -19,26 +22,24 @@ These interests, I believe, will remain the same in the future.
 There is undoubtedly more to learn, more problems to solve, and more to build. 
 And for that, I am eternally grateful.
 
-## :chart_with_upwards_trend: 𝙼y metrics
+## :chart_with_upwards_trend: 𝙼y GitHub
 
 ![Metrics](https://metrics.lecoq.io/matteofacci)
 
+:earth_africa: You can access all my open-source projects here on GitHub
+  
+  If you like what I do, please consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://paypal.me/faccimatteo?country.x=IT&locale.x=it_IT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ## 📫 Contacts 
 
-You can contact me via email or directly on social media. Follow me! :sunglasses:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-[Matteo Facci](mailto:matteo.facci@outlook.it?subject=[GitHub]%20Source%20Han%20Sans)
-<!--
-**matteofacci/matteofacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can contact me via [email](mailto:matteo.facci@outlook.it?subject=[GitHub]%20Source%20Han%20Sans) or directly on social media. Follow me! :sunglasses:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src="https://raw.githubusercontent.com/matteofacci/matteofacci/master/socials/linkedin.png" height="40em" align="left" alt="Follow matteofacci on LinkedIn" title="Follow matteofacci on LinkedIn"/>](https://www.linkedin.com/in/matteofacci/)
+
+[<img src="https://raw.githubusercontent.com/matteofacci/matteofacci/master/socials/instagram.svg" height="40em" align="center" alt="Follow matteofacci on Instagram" title="Follow matteofacci on Instagram"/>](https://www.instagram.com/faccimatteo/)
