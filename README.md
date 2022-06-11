@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=matteofacci.visitor-badge)
+
 ![](coding.gif)
 
 # 👋 Hi there! I'm Matteo Facci
@@ -16,6 +18,16 @@ The two years I spent in the Sapienza Corse Formula Student Racing Team, with an
 These interests, I believe, will remain the same in the future. 
 There is undoubtedly more to learn, more problems to solve, and more to build. 
 And for that, I am eternally grateful.
+
+## :chart_with_upwards_trend: 𝙼y metrics
+
+![Metrics](https://metrics.lecoq.io/matteofacci)
+
+## 📫 Contacts 
+
+You can contact me via email or directly on social media. Follow me! :sunglasses:
+
+[Matteo Facci](mailto:matteo.facci@outlook.it?subject=[GitHub]%20Source%20Han%20Sans)
 <!--
 **matteofacci/matteofacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
