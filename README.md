@@ -28,7 +28,7 @@ And for that, I am eternally grateful.
 
 :earth_africa: You can access all my open-source projects here on GitHub
   
-  If you like what I do, please consider buying me a coffee/tea 🥺👉👈
+  If you like what I do, please consider buying me a coffee/tea :smiley:
 
 <a href="https://paypal.me/faccimatteo?country.x=IT&locale.x=it_IT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
