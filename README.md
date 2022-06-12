@@ -22,7 +22,7 @@ These interests, I believe, will remain the same in the future.
 There is undoubtedly more to learn, more problems to solve, and more to build. 
 And for that, I am eternally grateful.
 
-## :chart_with_upwards_trend: 𝙼y GitHub
+## :chart_with_upwards_trend: My GitHub
 
 ![Metrics](https://metrics.lecoq.io/matteofacci)
 
@@ -36,7 +36,7 @@ And for that, I am eternally grateful.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-You can contact me via [email](mailto:matteo.facci@outlook.it?subject=[GitHub]%20Source%20Han%20Sans) or directly on social media. Follow me! :sunglasses:
+You can contact me via [email](mailto:matteo.facci@outlook.it?subject=[GitHub]) or directly on social media. Follow me! :sunglasses:
 
 
 
