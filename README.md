@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=matteofacci.visitor-badge)
 [![Linkedin: matteofacci](https://img.shields.io/badge/-matteofacci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteofacci/)](https://www.linkedin.com/in/matteofacci/)
 [![Instagram Badge](https://img.shields.io/badge/-matteofacci-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/faccimatteo/)](https://www.instagram.com/faccimatteo/)
-[![Outlook Badge](https://img.shields.io/badge/-matteo.facci@outlook.it-d14836?style=flat-square&logo=Outlook&logoColor=white&link=mailto:matteo.facci@outlook.it?subject=[GitHub])](mailto:matteo.facci@outlook.it?subject=[GitHub])
+[![Outlook Badge](https://img.shields.io/badge/-matteo.facci@outlook.it-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:matteo.facci@outlook.it?subject=[GitHub])](mailto:matteo.facci@outlook.it?subject=[GitHub])
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/faccimatteo?country.x=IT&locale.x=it_IT)
 [![GitHub Matteo](https://img.shields.io/github/followers/matteo?label=follow&style=social)](https://github.com/matteofacci)
 
