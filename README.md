@@ -24,7 +24,14 @@ And for that, I am eternally grateful.
 
 ## :chart_with_upwards_trend: My GitHub
 
-![Metrics](https://metrics.lecoq.io/matteofacci)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matteofacci&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Matteo's GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteofacci&layout=compact&theme=github_dark&langs_count=6" />
+</a>
+
+
 
 :earth_africa: You can access all my open-source projects here on GitHub
   
@@ -34,7 +41,7 @@ And for that, I am eternally grateful.
 
 ## 📫 Contacts 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
 
 You can contact me via [email](mailto:matteo.facci@outlook.it?subject=[GitHub]) or directly on social media. Follow me! :sunglasses:
 
