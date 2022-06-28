@@ -8,7 +8,7 @@
 
 ![](coding.gif)
 
-# 👋 Hi there! I'm Matteo Facci
+# 👋 Hello there! I'm Matteo Facci
 
 ## :open_book: About me
 
