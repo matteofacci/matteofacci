@@ -19,8 +19,6 @@ I like to think of myself as a technophile obsessed with the latest devices, a b
 
 All of these factors helped me get through my studies at Sapienza, University of Rome. As a passionate person, I had access to more resources than I could have imagined. Beginning with my BE in Information Engineering and continuing through my MS in Control Engineering, I studied new languages, algorithms, controllers, and higher mathematics with the same enthusiasm that I had as a child. And it was here that I realized just how much more there was to learn.
 
-The two years I spent in the Sapienza Corse Formula Student Racing Team, with an amazing group of people from the same university but with different engineering bases or courses of study, were one of the most valuable experiences of my student career. This program allowed me to combine all of my interests and abilities into one, which was working in an engineering team, in a dynamic environment, surrounded by motors and technology, in order to show our signs of progress and results and then compete during the Formula Student Championship events and races in Italy and abroad.
-
 These interests, I believe, will remain the same in the future. 
 There is undoubtedly more to learn, more problems to solve, and more to build. 
 And for that, I am eternally grateful.
