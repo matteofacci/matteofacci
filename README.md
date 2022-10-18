@@ -6,7 +6,6 @@
 [![GitHub Matteo](https://img.shields.io/github/followers/matteofacci?label=follow&style=social)](https://github.com/matteofacci)
 
 <img src="coding.gif" height="250"/>
-![](coding.gif)
 
 # 👋 Hello there! I'm Matteo Facci
 
