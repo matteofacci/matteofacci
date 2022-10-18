@@ -5,7 +5,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/faccimatteo?country.x=IT&locale.x=it_IT)
 [![GitHub Matteo](https://img.shields.io/github/followers/matteofacci?label=follow&style=social)](https://github.com/matteofacci)
 
-<img src="coding.gif" width="250" height="250"/>
+<img src="coding.gif" height="250"/>
 ![](coding.gif)
 
 # 👋 Hello there! I'm Matteo Facci
